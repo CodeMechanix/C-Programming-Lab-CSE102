@@ -1,7 +1,7 @@
                                                    Structure Programming
 -------------------------------------------------------------------------------------------------------------------------------                            
-# Topics Of Structure Programming-01:
-I.	Input Output
+#Topics Of Structure Programming-01:
+I.	Input Output 
 II.	Operator
 III.	Math.h
 IV.	Conditional logic
@@ -10,7 +10,7 @@ VI.	Conditional Operator
 VII.	Loop
 VIII.	Series
 -------------------------------------------------------------------------------------------------------------------------------
-# Every Chapter Have Following Three Parts:
+#Every Chapter Have Following Three Parts:
 I.	Problems.
 II.	Solves.
 II.	Home Works.
