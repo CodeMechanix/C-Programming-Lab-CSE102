@@ -1,55 +1,6 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Structure Programming (Part-01)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
- Topics Of Structure Programming-01
-
-
-
-
+                                                   Structure Programming
+-------------------------------------------------------------------------------------------------------------------------------                            
+# Topics Of Structure Programming-01:
 I.	Input Output
 II.	Operator
 III.	Math.h
@@ -58,59 +9,40 @@ V.	Switch
 VI.	Conditional Operator
 VII.	Loop
 VIII.	Series
-
-
-Every Chapter Have Following Three Parts
-------------------------------------------------------
-1.	Problems.
-2.	Solves.
-3.	Home Works.
-
-
-
-
-
-
-
-
-
-
-
-
-1
- 
-
-
-
-
-
- Welcome To Programming World
-Input Output
-1.	Write a program that print a massage.
-#include<stdio.h> int main ()
+-------------------------------------------------------------------------------------------------------------------------------
+# Every Chapter Have Following Three Parts:
+I.	Problems.
+II.	Solves.
+II.	Home Works.
+-------------------------------------------------------------------------------------------------------------------------------
+                                       ## Welcome To Programming World ## 
+#	Write a program that print a massage.
+#include<stdio.h> 
+int main ()
 {
-
-printf("University Of Asia Pacific\n"); return 0;
+   printf("University Of Asia Pacific\n"); 
+   return 0;
 }
 
-2.	An integer variable n contains 5. Write a program that print the value of n.
-#include<stdio.h> int main ()
+# An integer variable n contains 5. Write a program that print the value of n.
+#include<stdio.h> 
+int main ()
 {
-
-int n; n=5;
-printf("The value of n is = %d", n); return 0;
+  int n; 
+  n=5;
+  printf("The value of n is = %d", n); 
+  return 0;
 }
 
-2
- 
-3.	Write a program that read and display an integer
-number.
-#include<stdio.h> int main ()
+#	Write a program that read and display an integer number.
+#include<stdio.h> 
+int main ()
 {
-
-int n;
-printf("Enter N = "); scanf("%d", &n);
-printf("The integer number is : %d", n); return 0;
+  int n;
+  printf("Enter N = "); 
+  scanf("%d", &n);
+  printf("The integer number is : %d", n); 
+  return 0;
 }
 
 4.	Write a program that read and display floating point number.
